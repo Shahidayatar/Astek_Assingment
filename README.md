@@ -1,3 +1,5 @@
+to download my project,open terminal and type "git clone https://github.com/Shahidayatar/Astek_Assingment/tree/main"
+
 Step to start fronend
 
 Step 1 :  go into "frontend"
